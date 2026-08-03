@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
-  "notes": "A new, lighter look across the whole app, readable text on selected rows, and a Settings screen that scrolls in small windows.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp/releases/latest"
+  "version": "1.8.0",
+  "notes": "Updates now work on every office PC: the download link no longer asks for a sign-in, and staff can install an update the administrator has shared from the host PC.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.8.0/IJHS-ERP-Setup-1.8.0.exe"
 }
