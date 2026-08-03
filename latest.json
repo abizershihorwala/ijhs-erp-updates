@@ -1,6 +1,6 @@
 {
-  "version": "1.10.0",
-  "notes": "Updates are now applied when you sign in, so every PC stays on the same version. The Student Profile screen can also save a full record as a PDF.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.0/IJHS-ERP-Setup-1.10.0.exe",
-  "sha256": "B9B3C8F5825D4F3C112407D4FFB741BFDE97145DCB63E268EE2BDD5EC3EAAC8F"
+  "version": "1.10.1",
+  "notes": "The Term 2 fee now falls in October instead of November. The student profile PDF covers the current academic year by default, and can be asked for a range of years.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.1/IJHS-ERP-Setup-1.10.1.exe",
+  "sha256": "567A9DF0065609A29146FC032DD4718537F74E496BF8574A324C16B78657413A"
 }
