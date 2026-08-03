@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0",
-  "notes": "Updates now download inside the app, with a progress bar and a Stop button - over the internet or from the school's own host PC.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.9.0/IJHS-ERP-Setup-1.9.0.exe",
-  "sha256": "F827F464D9BE522C300FDC5227E5DEE5C608C34B253981690AB3E8A6025BE544"
+  "version": "1.10.0",
+  "notes": "Updates are now applied when you sign in, so every PC stays on the same version. The Student Profile screen can also save a full record as a PDF.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.0/IJHS-ERP-Setup-1.10.0.exe",
+  "sha256": "B9B3C8F5825D4F3C112407D4FFB741BFDE97145DCB63E268EE2BDD5EC3EAAC8F"
 }
