@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
-  "notes": "Software updates: the app can now tell you when a new version is available, and updates can be shared to the other office PCs from the host.",
+  "version": "1.7.0",
+  "notes": "A new, lighter look across the whole app, readable text on selected rows, and a Settings screen that scrolls in small windows.",
   "url": "https://github.com/abizershihorwala/ijhs-erp/releases/latest"
 }
