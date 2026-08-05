@@ -1,6 +1,6 @@
 {
-  "version": "1.10.1",
-  "notes": "The Term 2 fee now falls in October instead of November. The student profile PDF covers the current academic year by default, and can be asked for a range of years.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.1/IJHS-ERP-Setup-1.10.1.exe",
-  "sha256": "567A9DF0065609A29146FC032DD4718537F74E496BF8574A324C16B78657413A"
+  "version": "1.10.2",
+  "notes": "Class 10 private students, a way to record fees collected before this software, a separate Security screen for logins and permissions, Term 2 moved to October, and dates now read DD/MM/YYYY.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.2/IJHS-ERP-Setup-1.10.2.exe",
+  "sha256": "8F3E6AEE9DA1B3E343EC7A27BD6CA490B96E73EB600293F9889116701E0AEC87"
 }
