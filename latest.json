@@ -1,6 +1,6 @@
 {
-  "version": "1.10.2",
-  "notes": "Class 10 private students, a way to record fees collected before this software, a separate Security screen for logins and permissions, Term 2 moved to October, and dates now read DD/MM/YYYY.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.2/IJHS-ERP-Setup-1.10.2.exe",
-  "sha256": "8F3E6AEE9DA1B3E343EC7A27BD6CA490B96E73EB600293F9889116701E0AEC87"
+  "version": "1.10.25",
+  "notes": "Promotion can now tick a whole class at once, and the Promote all / Hold all buttons work again. The student profile PDF shows the full Aadhaar number, and fees recorded as collected earlier now say so on the Collect Payment screen.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.25/IJHS-ERP-Setup-1.10.25.exe",
+  "sha256": "9AC638BA59D56A28D3D53B71B6D3A6F4C704B854903D95E20D3DC84F22734C99"
 }
