@@ -1,6 +1,6 @@
 {
-  "version": "1.10.26",
-  "notes": "A PC that is behind the others can now update itself from the message that stops it, instead of being left with nothing to click.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.26/IJHS-ERP-Setup-1.10.26.exe",
-  "sha256": "5CED9E332AC3F92005DEEF7608D77FCAEF93B5FFC7FBD81F616AA75860A4886D"
+  "version": "1.10.27",
+  "notes": "Receipts are now laid out for the school's 80 mm thermal printer: 48 characters wide, sized to the paper, and cut to the length of the receipt instead of feeding out a blank page.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.27/IJHS-ERP-Setup-1.10.27.exe",
+  "sha256": "BF133E334EAD2A6038C542F823CF76CCEB0B6C036C6D4D59E83AF895BA499FC2"
 }
