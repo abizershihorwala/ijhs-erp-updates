@@ -1,6 +1,6 @@
 {
-  "version": "1.10.27",
-  "notes": "Receipts are now laid out for the school's 80 mm thermal printer: 48 characters wide, sized to the paper, and cut to the length of the receipt instead of feeding out a blank page.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.27/IJHS-ERP-Setup-1.10.27.exe",
-  "sha256": "BF133E334EAD2A6038C542F823CF76CCEB0B6C036C6D4D59E83AF895BA499FC2"
+  "version": "1.10.28",
+  "notes": "Receipts are sent to the thermal printer in its own language, so they work with the driver built into Windows and the paper is cut automatically.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.28/IJHS-ERP-Setup-1.10.28.exe",
+  "sha256": "C139493B224B7276003A6EA0E65BD63B8D3AF278FBF18E109E0EDC6F8ACC39F5"
 }
