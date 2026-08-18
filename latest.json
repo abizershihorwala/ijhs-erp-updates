@@ -1,6 +1,6 @@
 {
-  "version": "1.10.28",
-  "notes": "Receipts are sent to the thermal printer in its own language, so they work with the driver built into Windows and the paper is cut automatically.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.28/IJHS-ERP-Setup-1.10.28.exe",
-  "sha256": "C139493B224B7276003A6EA0E65BD63B8D3AF278FBF18E109E0EDC6F8ACC39F5"
+  "version": "1.10.29",
+  "notes": "The app no longer fetches scanned documents it does not need - listing a student's documents, deleting a student or a class, and the daily backup are all much lighter on the network.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.29/IJHS-ERP-Setup-1.10.29.exe",
+  "sha256": "36819DD474EAC0239CD7883DBD94CC862276952C79A2DA8798596A937ADF4B8F"
 }
