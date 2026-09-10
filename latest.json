@@ -1,6 +1,6 @@
 {
-  "version": "1.10.29",
-  "notes": "The app no longer fetches scanned documents it does not need - listing a student's documents, deleting a student or a class, and the daily backup are all much lighter on the network.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.29/IJHS-ERP-Setup-1.10.29.exe",
-  "sha256": "36819DD474EAC0239CD7883DBD94CC862276952C79A2DA8798596A937ADF4B8F"
+  "version": "1.10.30",
+  "notes": "Daily Collection report - one day's takings split into Pre-primary, Primary and Secondary and by payment mode, with a PDF. Hover and selection highlights, search boxes and the tab strips are now clearly visible. The pending-months export asks which classes; re-admitting asks for class and a new GR number.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.30/IJHS-ERP-Setup-1.10.30.exe",
+  "sha256": "A7191307A1D8B23AE8F475E7A5D8B474BA6E2DB199E0F451CF6DA3FC703C4697"
 }
