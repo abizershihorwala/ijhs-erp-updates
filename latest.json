@@ -1,6 +1,6 @@
 {
-  "version": "1.10.30",
-  "notes": "Daily Collection report - one day's takings split into Pre-primary, Primary and Secondary and by payment mode, with a PDF. Hover and selection highlights, search boxes and the tab strips are now clearly visible. The pending-months export asks which classes; re-admitting asks for class and a new GR number.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.10.30/IJHS-ERP-Setup-1.10.30.exe",
-  "sha256": "A7191307A1D8B23AE8F475E7A5D8B474BA6E2DB199E0F451CF6DA3FC703C4697"
+  "version": "1.0.0",
+  "notes": "First stable release. A grouped menu with icons; the student record and Collect payment redrawn as full pages; six dialogs redrawn; sharper on every screen. PCs still on a 1.10.x beta must install this one by hand from the releases page - it is not offered automatically.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.0.0/IJHS-ERP-Setup-1.0.0.exe",
+  "sha256": "632487F7495B179A6A6AA5ED45549DEF981E109D1C81F6009E0B8F46E766D830"
 }
