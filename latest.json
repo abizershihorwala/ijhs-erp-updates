@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "notes": "First stable release. A grouped menu with icons; the student record and Collect payment redrawn as full pages; six dialogs redrawn; sharper on every screen. PCs still on a 1.10.x beta must install this one by hand from the releases page - it is not offered automatically.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.0.0/IJHS-ERP-Setup-1.0.0.exe",
-  "sha256": "632487F7495B179A6A6AA5ED45549DEF981E109D1C81F6009E0B8F46E766D830"
+  "version": "1.0.1",
+  "notes": "CA exports: choose which classes, a new date-wise workbook, and fees collected earlier are no longer included. Receipt history can be filtered by payment mode. Collect payment keeps the student after a receipt, with Esc to move on. Browse by class gains a search box per class. The app can no longer be opened twice.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.0.1/IJHS-ERP-Setup-1.0.1.exe",
+  "sha256": "20015FB107D7C4048CF5793C2A02E8BB2F359FED5037A19A0B167EEF3EBCA90E"
 }
