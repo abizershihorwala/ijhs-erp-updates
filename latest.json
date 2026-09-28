@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "notes": "CA exports: choose which classes, a new date-wise workbook, and fees collected earlier are no longer included. Receipt history can be filtered by payment mode. Collect payment keeps the student after a receipt, with Esc to move on. Browse by class gains a search box per class. The app can no longer be opened twice.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.0.1/IJHS-ERP-Setup-1.0.1.exe",
-  "sha256": "20015FB107D7C4048CF5793C2A02E8BB2F359FED5037A19A0B167EEF3EBCA90E"
+  "version": "1.0.2",
+  "notes": "Fill in missing student details from an Excel file: a new button on All students reads a spreadsheet and fills in only the boxes that are empty, never changing anything already on a record and never adding a student. Students are found by GR number, or by name and date of birth. Every blank and the value going into it is listed for checking before anything is saved. Also fixed: dates in an uploaded file were read in the PC's own date order, so 09-07-2015 could be read as 7 September instead of 9 July.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.0.2/IJHS-ERP-Setup-1.0.2.exe",
+  "sha256": "3E25340C0AD45FE1AF9322B5CBA29EF069A1DD0A9BF724578EC5FBD251996AFC"
 }
