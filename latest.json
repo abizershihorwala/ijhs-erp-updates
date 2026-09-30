@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "notes": "Fill in missing student details from an Excel file: a new button on All students reads a spreadsheet and fills in only the boxes that are empty, never changing anything already on a record and never adding a student. Students are found by GR number, or by name and date of birth. Every blank and the value going into it is listed for checking before anything is saved. Also fixed: dates in an uploaded file were read in the PC's own date order, so 09-07-2015 could be read as 7 September instead of 9 July.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.0.2/IJHS-ERP-Setup-1.0.2.exe",
-  "sha256": "3E25340C0AD45FE1AF9322B5CBA29EF069A1DD0A9BF724578EC5FBD251996AFC"
+  "version": "1.0.3",
+  "notes": "Fixes documents and Aadhaar numbers that could not be opened on a second PC. The encryption keys are now kept with the shared records, so every PC picks them up automatically with nothing to copy. Also fixed: a PC that could not read an Aadhaar number treated it as missing, and saving the student erased it. If you use the shared database, update the PC holding the original records FIRST, then the other PCs.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.0.3/IJHS-ERP-Setup-1.0.3.exe",
+  "sha256": "E35BF989090A0ACFF9B3756ED996F99C72221427EEC85CC6DB3FBBC7CDFBC7EA"
 }
