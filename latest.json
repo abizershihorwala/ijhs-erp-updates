@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "notes": "Fixes documents and Aadhaar numbers that could not be opened on a second PC. The encryption keys are now kept with the shared records, so every PC picks them up automatically with nothing to copy. Also fixed: a PC that could not read an Aadhaar number treated it as missing, and saving the student erased it. If you use the shared database, update the PC holding the original records FIRST, then the other PCs.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.0.3/IJHS-ERP-Setup-1.0.3.exe",
-  "sha256": "E35BF989090A0ACFF9B3756ED996F99C72221427EEC85CC6DB3FBBC7CDFBC7EA"
+  "version": "1.0.4",
+  "notes": "Completes the multi-PC document and Aadhaar fix. In 1.0.3 the school's encryption key was only shared the first time the app happened to need it, so a PC that was updated but did not open a document never shared it and the other PCs kept failing. The keys are now shared as soon as the app opens on the PC that can read the records, there is a button to do it deliberately, and the one-time transfer to a shared database shares them too.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.0.4/IJHS-ERP-Setup-1.0.4.exe",
+  "sha256": "E8DB8DA17E46FB52DA90FD4D6D3860F218872B29EEBBA72E67AEE992396BE661"
 }
