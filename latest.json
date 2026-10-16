@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "notes": "Completes the multi-PC document and Aadhaar fix. In 1.0.3 the school's encryption key was only shared the first time the app happened to need it, so a PC that was updated but did not open a document never shared it and the other PCs kept failing. The keys are now shared as soon as the app opens on the PC that can read the records, there is a button to do it deliberately, and the one-time transfer to a shared database shares them too.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.0.4/IJHS-ERP-Setup-1.0.4.exe",
-  "sha256": "E8DB8DA17E46FB52DA90FD4D6D3860F218872B29EEBBA72E67AEE992396BE661"
+  "version": "1.0.45",
+  "notes": "Three fixes. Receipt numbers no longer skip over a payment marked as collected earlier — the next receipt continues the run, and receipts already printed are not changed. The months-pending report now ends with a grand total. RTE students are listed in that report with a bold (RTE) after the name, and the foot splits into RTE total, regular total and grand total, on the printout and on screen.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.0.45/IJHS-ERP-Setup-1.0.45.exe",
+  "sha256": "4E70E2977A40F8F4EAFF53ACEED603E0E5AA210E17FB3451ABB6D4C307BF339C"
 }
