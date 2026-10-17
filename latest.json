@@ -1,6 +1,6 @@
 {
-  "version": "1.0.45",
-  "notes": "Three fixes. Receipt numbers no longer skip over a payment marked as collected earlier — the next receipt continues the run, and receipts already printed are not changed. The months-pending report now ends with a grand total. RTE students are listed in that report with a bold (RTE) after the name, and the foot splits into RTE total, regular total and grand total, on the printout and on screen.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.0.45/IJHS-ERP-Setup-1.0.45.exe",
-  "sha256": "4E70E2977A40F8F4EAFF53ACEED603E0E5AA210E17FB3451ABB6D4C307BF339C"
+  "version": "1.1.0",
+  "notes": "Marks are now in the app. A new Academics section: set each class's subjects and what its exams are out of, then enter marks per student, one exam at a time. Jr and Sr KG are graded rather than marked. Marks also show on the Student Profile and in the profile PDF. Student Profile and Collect Payment now say when a student's fee record was last changed and by whom. Left & Graduated can archive a passed-out batch to a folder — documents and a PDF with every mark — and then clear those details from the app; receipts are never touched. Fixed: the months-pending report's grand total now adds up the amount pending.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.1.0/IJHS-ERP-Setup-1.1.0.exe",
+  "sha256": "FF41AA46D0F3FF01B1E59C02D45193361BAEE2D55878CE997F976EBF3C9FCE46"
 }
