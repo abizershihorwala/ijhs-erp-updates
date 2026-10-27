@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "notes": "Marks are now in the app. A new Academics section: set each class's subjects and what its exams are out of, then enter marks per student, one exam at a time. Jr and Sr KG are graded rather than marked. Marks also show on the Student Profile and in the profile PDF. Student Profile and Collect Payment now say when a student's fee record was last changed and by whom. Left & Graduated can archive a passed-out batch to a folder — documents and a PDF with every mark — and then clear those details from the app; receipts are never touched. Fixed: the months-pending report's grand total now adds up the amount pending.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.1.0/IJHS-ERP-Setup-1.1.0.exe",
-  "sha256": "FF41AA46D0F3FF01B1E59C02D45193361BAEE2D55878CE997F976EBF3C9FCE46"
+  "version": "1.1.1",
+  "notes": "Receipt history can now be filtered by date — From and To, either one optional, with quick choices for Today, This month and This financial year. A Clear filters button clears the search, the dates and the payment mode together. Searching now looks at every receipt instead of only the most recent 2000, so an older receipt can be found by the parent's name; you can also search by the printed number, by a year, or by typing 'collected' for fees recorded as taken on paper. And when the main PC cannot be reached, the app now says so by name instead of 'Something went wrong', and on Collect payment it says whether the payment was recorded.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.1.1/IJHS-ERP-Setup-1.1.1.exe",
+  "sha256": "3B4A60E99BF13603BB3FC9E9E08E9C6DB54A9CBCB1086CFF7436D3CA542A7B8D"
 }
