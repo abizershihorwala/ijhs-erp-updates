@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "notes": "Receipt history can now be filtered by date — From and To, either one optional, with quick choices for Today, This month and This financial year. A Clear filters button clears the search, the dates and the payment mode together. Searching now looks at every receipt instead of only the most recent 2000, so an older receipt can be found by the parent's name; you can also search by the printed number, by a year, or by typing 'collected' for fees recorded as taken on paper. And when the main PC cannot be reached, the app now says so by name instead of 'Something went wrong', and on Collect payment it says whether the payment was recorded.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.1.1/IJHS-ERP-Setup-1.1.1.exe",
-  "sha256": "3B4A60E99BF13603BB3FC9E9E08E9C6DB54A9CBCB1086CFF7436D3CA542A7B8D"
+  "version": "1.1.2",
+  "notes": "New admission form. Students -> New admission fills the school's admission form on screen and prints it exactly as the paper one, in both halves — the school's copy and the part handed back to the parent. One button saves the student and prints the form together, so the details are typed once instead of twice. The screen also counts how many children have been admitted this academic year, and those children carry a 'New admission' marker beside their name in All students and Browse by class, which clears itself on 1 June when the new school year starts. Please update every office PC together: this version adds new details to the student record, so a PC left on the older version will ask to be updated before it opens.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.1.2/IJHS-ERP-Setup-1.1.2.exe",
+  "sha256": "693DD13F688DAAB855749A69D7BC405687FCCEDC0252338FD006963F82012B56"
 }
