@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
-  "notes": "New admission form. Students -> New admission fills the school's admission form on screen and prints it exactly as the paper one, in both halves — the school's copy and the part handed back to the parent. One button saves the student and prints the form together, so the details are typed once instead of twice. The screen also counts how many children have been admitted this academic year, and those children carry a 'New admission' marker beside their name in All students and Browse by class, which clears itself on 1 June when the new school year starts. Please update every office PC together: this version adds new details to the student record, so a PC left on the older version will ask to be updated before it opens.",
-  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.1.2/IJHS-ERP-Setup-1.1.2.exe",
-  "sha256": "693DD13F688DAAB855749A69D7BC405687FCCEDC0252338FD006963F82012B56"
+  "version": "1.1.3",
+  "notes": "Please update every office PC in the same sitting — this version changes the shape of the student records, so a PC left on an older version will ask to be updated before it opens. If a PC is stuck asking you to update to the version it already has, sign in as an administrator, go to Backup then Shared database, and press 'Remove it' on the update that is waiting; that was a fault in 1.1.2 and is fixed here. RTE students are now charged nothing: they are never billed, never appear in Defaulters, and are left out of every fee total, while staying on the roll with an RTE tag. Admission forms can be reprinted from a student's record exactly as they were filed. A new Documents area under Administration holds the school's blank forms — add files or drag them in, group them in folders, and double-click to open, print or download a copy. Marks are now included in the shared-database backup and in the move to a shared database; previously they were not.",
+  "url": "https://github.com/abizershihorwala/ijhs-erp-updates/releases/download/v1.1.3/IJHS-ERP-Setup-1.1.3.exe",
+  "sha256": "C62CB0C86A700BCB4C389EF9AA5BEC0B7B9C65C971E9A85D03B6053C1BFFF6DE"
 }
